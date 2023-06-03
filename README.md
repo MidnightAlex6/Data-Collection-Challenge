@@ -11,7 +11,7 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 ## Files
 
   * Resources Folder
-    - Module Chaallenge 11 instructions - step by step instructions for this homework assignment
+    - Module Challenge 11 instructions - step by step instructions for this homework assignment
     - banner.jpeg - image used for readme file
 
   * Starter_Code Folder
